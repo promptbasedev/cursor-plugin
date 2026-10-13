@@ -21,4 +21,4 @@ PromptBase has 300,000+ prompts and skills made by independent creators. Use the
 4. If they already own it, use `open_prompt`. Otherwise `get_prompt` downloads free prompts, or uses one of their PromptBase Select downloads only after they agree. You can't buy prompts for the user: share the link so they can check out on promptbase.com.
 5. Prompts often contain `[VARIABLES]` in square brackets. Ask for the details you need, fill them in, and then use the prompt in their project.
 
-The first time a PromptBase tool runs, Cursor asks the user to sign in to PromptBase (or create a free account).
+The first time a PromptBase tool runs, the user is asked to sign in to PromptBase (or create a free account).
