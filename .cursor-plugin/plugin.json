@@ -1,0 +1,16 @@
+{
+  "name": "promptbase",
+  "version": "1.0.0",
+  "description": "Search and use 300,000+ AI prompts and skills from PromptBase for images, video, writing, games, apps and websites.",
+  "author": {
+    "name": "PromptBase",
+    "email": "hello@promptbase.com"
+  },
+  "homepage": "https://promptbase.com/agents",
+  "repository": "https://github.com/promptbasedev/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["prompts", "skills", "image generation", "game assets", "midjourney", "marketplace"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "skills": "skills"
+}
