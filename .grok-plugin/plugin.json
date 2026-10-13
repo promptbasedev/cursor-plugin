@@ -1,0 +1,15 @@
+{
+  "name": "promptbase",
+  "version": "1.0.0",
+  "description": "PromptBase for Grok Build via the hosted PromptBase MCP server at promptbase.com/mcp. Search and use 300,000+ AI prompts and skills for images, video, writing, games, apps and websites. Sign in with your PromptBase account on first connect.",
+  "author": {
+    "name": "PromptBase",
+    "email": "hello@promptbase.com",
+    "url": "https://promptbase.com"
+  },
+  "homepage": "https://promptbase.com/agents",
+  "repository": "https://github.com/promptbasedev/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["promptbase", "promptbase prompts", "promptbase skills", "promptbase mcp"],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "promptbase": {
+      "type": "http",
+      "url": "https://promptbase.com/mcp"
+    }
+  }
+}

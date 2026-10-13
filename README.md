@@ -1,8 +1,8 @@
 <img src="assets/logo.png" alt="PromptBase" width="64" height="64">
 
-# PromptBase for Cursor
+# PromptBase for Cursor and Grok Build
 
-Search and use 300,000+ AI prompts and skills from [PromptBase](https://promptbase.com) without leaving Cursor. Find prompts for game sprites, website images, video ads, marketing copy and more, then have Cursor's agent fill them in and use them in your project.
+Search and use 300,000+ AI prompts and skills from [PromptBase](https://promptbase.com) without leaving Cursor or Grok Build. Find prompts for game sprites, website images, video ads, marketing copy and more, then have Cursor's agent fill them in and use them in your project.
 
 ## What it adds
 
@@ -20,7 +20,14 @@ Nothing is ever bought for you. For paid prompts, the agent gives you a link to 
 
 Install PromptBase from the Cursor Marketplace, or [add the server to Cursor in one click](cursor://anysphere.cursor-deeplink/mcp/install?name=promptbase&config=eyJ1cmwiOiJodHRwczovL3Byb21wdGJhc2UuY29tL21jcCJ9).
 
+In Grok Build, install PromptBase from the xAI plugin marketplace.
+
 The first time the agent uses PromptBase, you'll sign in to your PromptBase account (or create a free one) and approve the connection. You can disconnect any time in your PromptBase account settings.
+
+## Network and credentials
+
+- **Network:** the plugin only connects to the hosted MCP server at `https://promptbase.com/mcp`. It runs no local code, scripts or hooks.
+- **Credentials:** none are stored in this repository. Your agent signs in with OAuth (PKCE) the first time it connects, and PromptBase issues it a token for your account.
 
 ## Links
 
