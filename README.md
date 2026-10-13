@@ -1,8 +1,8 @@
 <img src="assets/logo.png" alt="PromptBase" width="64" height="64">
 
-# PromptBase for Cursor and Grok Build
+# PromptBase for Cursor, Grok Build and Antigravity
 
-Search and use 300,000+ AI prompts and skills from [PromptBase](https://promptbase.com) without leaving Cursor or Grok Build. Find prompts for game sprites, website images, video ads, marketing copy and more, then have Cursor's agent fill them in and use them in your project.
+Search and use 300,000+ AI prompts and skills from [PromptBase](https://promptbase.com) without leaving Cursor, Grok Build or Google Antigravity. Find prompts for game sprites, website images, video ads, marketing copy and more, then have Cursor's agent fill them in and use them in your project.
 
 ## What it adds
 
@@ -21,6 +21,8 @@ Nothing is ever bought for you. For paid prompts, the agent gives you a link to 
 Install PromptBase from the Cursor Marketplace, or [add the server to Cursor in one click](cursor://anysphere.cursor-deeplink/mcp/install?name=promptbase&config=eyJ1cmwiOiJodHRwczovL3Byb21wdGJhc2UuY29tL21jcCJ9).
 
 In Grok Build, install PromptBase from the xAI plugin marketplace.
+
+In Google Antigravity, run `agy plugin install https://github.com/promptbasedev/cursor-plugin`, then open Agent settings → Customizations and click Authenticate next to PromptBase.
 
 The first time the agent uses PromptBase, you'll sign in to your PromptBase account (or create a free one) and approve the connection. You can disconnect any time in your PromptBase account settings.
 
